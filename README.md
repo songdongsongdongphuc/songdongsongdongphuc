@@ -2,7 +2,7 @@
 
 - 🎓 First-year student in Information Technology at the University of Science, VNUHCM.
 - 🎂 Birthday: 04/02/2004
-- 🧍 Best friend: [https://www.facebook.com/profile.php?=75816879]
+- 🧍 Best friend: [Facebook](https://www.facebook.com/profile.php?=75816879)
 
 ---
 ## Social Media
