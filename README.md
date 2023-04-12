@@ -5,4 +5,4 @@
 ---
 ## Social Media
 
-[![N|Solid](https://github.com/fusodoya/fusodoya/blob/main/facebook.png)](https://www.facebook.com/songdonggiaphuc)
+[![N|Solid]([https://github.com/fusodoya/fusodoya/blob/main/facebook.png](https://github.com/fusodoya/fusodoya/blob/main/icon/facebook.png))](https://www.facebook.com/songdonggiaphuc)
