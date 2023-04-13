@@ -10,3 +10,4 @@
 [![N|Solid](https://github.com/fusodoya/fusodoya/blob/main/icon/facebook.png)](https://www.facebook.com/songdonggiaphuc) &emsp;
 [![N|Solid](https://github.com/fusodoya/fusodoya/blob/main/icon/gmail.png)](mailto:fusodoya@gmail.com) &emsp;
 [![N|Solid](https://github.com/fusodoya/fusodoya/blob/main/icon/linkedin.png)](https://www.linkedin.com/in/fusodoya/) &emsp;
+[![N|Solid](https://github.com/fusodoya/fusodoya/blob/main/icon/instagram.png)](https://www.instagram.com/fusodoya/) &emsp;
