@@ -11,3 +11,9 @@
 [![N|Solid](https://github.com/fusodoya/fusodoya/blob/main/icon/gmail.png)](mailto:fusodoya@gmail.com) &emsp;
 [![N|Solid](https://github.com/fusodoya/fusodoya/blob/main/icon/linkedin.png)](https://www.linkedin.com/in/fusodoya/) &emsp;
 [![N|Solid](https://github.com/fusodoya/fusodoya/blob/main/icon/instagram.png)](https://www.instagram.com/fusodoya/) &emsp;
+
+---
+## 📊 GitHub Statistics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fusodoya&hide=issues,contribs&count_private=true&show_icons=true&theme=material-palenight" alt="thanguyen165" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=fusodoya&theme=material-palenight" alt="GitHub Streak" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fusodoya&layout=compact&theme=material-palenight&langs_count=10&card_width=445" alt="Language Stats" /> </p>
